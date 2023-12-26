@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://github-readme-stats.vercel.app/api?username=cupoftea4&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cupoftea4&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cupoftea4&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 -->
