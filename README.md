@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  I'm a Software Engineer who believes in tea <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="25" height="25" /> and the magic <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="25" height="25" /> of code. With 2 years of commercial experience, I specialize in building robust web applications, microservices and AI intergarion
+  I'm a Software Engineer who believes in tea <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="22" height="22" /> and the magic <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="22" height="22" /> of code. With 2 years of commercial experience, I specialize in building robust web applications, microservices and AI intergarion
 </div>
 
 ## Tech stack
@@ -28,12 +28,11 @@
 
 ## Stats
 
-<div style="display: flex; gap: 20px" align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupoftea4&theme=nord&layout=compact&langs_count=8&border_radius=10&hide_border=true"/>
+<div align="center">
+  <img height="200" hspace="2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupoftea4&theme=nord&layout=compact&langs_count=8&border_radius=10&hide_border=true"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=cupoftea4&show_icons=true&theme=nord&mode=weekly&border_radius=10&hide_border=true&include_all_commits=true&card_width=150"/>
 </div>
-
-<div style="display: flex; gap: 10px" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cupoftea4&theme=nord&hide_border=true&border_radius=10&mode=weekly&card_width=425&card_height=220" alt="streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=cupoftea4&theme=nord&margin-w=5&no-frame=true&rank=-C,-B&row=2&column=3" alt="cupoftea4" />
+<div align="center">
+  <img hspace="2" src="https://github-readme-streak-stats.herokuapp.com?user=cupoftea4&theme=nord&hide_border=true&border_radius=10&mode=weekly&card_width=428&card_height=224" alt="streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cupoftea4&theme=nord&margin-w=3&margin-h=3&no-frame=true&rank=-C,-B&row=2&column=3" alt="cupoftea4" />
 </div>
