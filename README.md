@@ -4,6 +4,7 @@
 
 <div align="center">
   I'm a Software Engineer who believes in tea <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="22" height="22" /> and the magic <img align="top" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="22" height="22" /> of code.
+</div>
 
 ## Tech stack
 
